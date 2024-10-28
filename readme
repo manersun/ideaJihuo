@@ -1,1 +1,24 @@
-得到的
+适合2020以上的专业版
+
+第一步：下载macjihuo
+第二步：在刚下载的“macjihuo”文件夹,右键 选择“新建位于文件夹位置的终端窗口”
+第三步：输入对应软件运行命令，然后回车；case：sh idea.sh
+显示Success!  Activate  to 2099即为激活成功!
+重启下软件打开正常使用就可以了
+
+
+第一步：下载压缩包 并双击解压
+第二步：在刚下载的“macjihuo”文件夹 
+右键 选择“新建位于文件夹位置的终端窗口”
+第3步：运行命令
+chmod +x scripts/install.sh
+第四步：执行第二个命令，出现done就执行脚本成功了
+sudo ./scripts/install.sh
+第五步：复制软件对应的激活码
+激活码在 jetbta/code 里面
+比如：你要激活idea软件，则打开IntelliJ IDEA.txt复制里面的激活码；
+第六步：打开对应的软件，将激活码粘贴至软件；
+提示：Key is invalid、密钥无效、Evaluation period has expired
+解决办法： 重启电脑后 再输入激活码！【重要 重要 重要】
+激活成功后，不要移动/删除文件夹（下载的 jetbra 文件夹）；
+如果不小心移动/删除文件夹了，恢复到原位 或者重新按照上面步骤激活即可；
